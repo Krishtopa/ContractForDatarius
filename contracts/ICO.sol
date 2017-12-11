@@ -1,3 +1,6 @@
+// Datarius tokensale smart contract. 
+// Developed by Phenom.Team <info@phenom.team>
+
 pragma solidity ^0.4.15;
 
 library SafeMath {
